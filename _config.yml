@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Lisa Kossmann"
   avatar           : "profile.png"
-  bio              : "Psycologist and PhD Student"
-  location         : "Location"
+  bio              : "Psychologist and PhD Student"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=de&user=V2XfbV8AAAAJ"
