@@ -1,0 +1,15 @@
+---
+title: "Replicating Epley and Gilovich: Need for Cognition, Cognitive Load, and Forewarning do not Moderate Anchoring Effects"
+collection: publications
+permalink: /publication/AnchorEffects_Paper
+excerpt: 'Anchoring, the assimilation of numerical estimates toward previously considered numbers, has generally been separated into anchoring from self-generated anchors (e.g., people first thinking of 9 months when asked for the gestation period of an animal) and experimenter-provided anchors (e.g., experimenters letting participants spin fortune wheels). For some time, the two types of anchoring were believed to be explained by two different theoretical accounts. However, later research showed crossover between the accounts. What now remains are contradictions between past and recent findings, specifically, which moderators affect which type of anchoring. We conducted three replications (Ntotal = 653) of seminal studies on the distinction between self-generated and experimenter-provided anchoring effects where we investigated the moderators need for cognition, cognitive load, and forewarning. We found no evidence that either type of anchoring is moderated by any of the moderators. In line with recent replication efforts, we found that anchoring effects were robust, but the findings on moderators of anchoring effects should be treated with caution.'
+date: 2022-04-13
+venue: 'PsyArXiv'
+paperurl: 'https://psyarxiv.com/bgp3m/'
+citation: 'Röseler, L., Bögler, H. L., Koßmann, L., Krueger, S., Bickenbach, S., Bühler, R., Guardia, J. d ., et al. (2022, April 13). Replicating  Epley and Gilovich: Need for Cognition, Cognitive Load, and Forewarning do not Moderate Anchoring Effects. PsyArXiv. Retrieved from psyarxiv.com/bgp3m'
+---
+This paper is about the number 3. The number 4 is left for future work.
+
+[Download paper here](https://psyarxiv.com/bgp3m/download)
+
+Recommended citation: Röseler, L., Bögler, H. L., Koßmann, L., Krueger, S., Bickenbach, S., Bühler, R., Guardia, J. d ., et al. (2022, April 13). Replicating  Epley and Gilovich: Need for Cognition, Cognitive Load, and Forewarning do not Moderate Anchoring Effects. PsyArXiv. Retrieved from psyarxiv.com/bgp3m.
