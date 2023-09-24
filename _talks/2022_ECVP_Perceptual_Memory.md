@@ -1,0 +1,10 @@
+---
+title: "How to form perceptual memory of multistability: Bias perception but gently"
+collection: talks
+type: "Talk"
+permalink: /talks/2022_ECVP_Perceptual_Memory
+venue: " 44th European Conference on Visual Perception (ECVP) 2022"
+date: 2012-03-01
+location: "Nijmegen, The Netherlands"
+---
+When multistable displays are presented intermittently with a long blank interval, they become stabilized via perceptual memory. However, we still lack an understanding of perceptual memory’s role in daily vision, its mechanisms, and even the conditions that lead to its formation. Therefore, we used a reverse correlation method to recover a biasing sequence that forms perceptual memory. In the experiment, participants reported on the direction of rotation of intermittently presented (800 ms on, 1000 ms off) kinetic-depth effect displays. We interleaved fully ambiguous probes (to read out current state of perceptual memory) with biased primes (size/distance cues), randomly disambiguated during the first 300 ms with 10 different bias levels, each lasting 30 ms. We collected 10,000+ trials for three participants. First, we validated the method by computing an average sequence that produced an opposite perceptual dominance in primes: A moderate (50%) bias in favor of the suppressed percept that is gradually reduced to full ambiguity. Next, we repeated the analysis but computed average bias sequences that preceded the dominance change in the following probe. I.e., a prime biasing sequence that established a new perceptual memory. We found the same pattern but with a weaker initial bias. We also computed a bias sequence that reversed the probe (formed perceptual memory) but not the prime itself. Here, an even gentler bias was required. Additional data is necessary to confirm its consistency as such events were rare. In short, to form perceptual memory: gently bias onset perception itself. Open data and methods: https://osf.io/gw7kc/
