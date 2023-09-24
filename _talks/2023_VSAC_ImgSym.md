@@ -1,0 +1,14 @@
+---
+title: "Saliency and strength of mirror symmetry in images of artworks in relation to appreciation and computational metrics"
+collection: talks
+type: "Poster"
+permalink: /talks/2023_ECVP_ImgSym
+venue: " Visual Science of Art Conference (VSAC)"
+date: 2023-08-26
+location: "Nicosia, Cyprus"
+---
+The relationship between mirror symmetry and aesthetic appreciation has intrigued vision scientists, empirical esthetics researchers and artists alike, but concrete evidence remains somewhat elusive to this day. In this multidisciplinary project, we investigate human symmetry detection for 100 images of artworks and relate these behavioral data to aesthetic appreciation and computational metrics. Participants were asked to place a rectangular bounding box around an image region they perceived as mirror-symmetric and to indicate the axis of symmetry. They could place as many boxes as they saw fit. For each of them, they also rated the perceived saliency of the region (i.e., how much it popped-out from the background) and the strength of the symmetry (i.e., from rather imperfect to almost perfect symmetry). Statistical analysis of 2839 symmetries by 23 participants so far reveals that participants selected bigger regions of symmetry first and rated them higher on salience and strength of symmetry. Vertical axes of symmetry were most frequently indicated (around 80%). We used different metrics for image quality assessment to compute symmetry accuracy scores for the bounding boxes, revealing large discrepancies between participant ratings and objectively computed symmetry strength. These discrepancies between human and computational symmetry assessment emphasize the need to go beyond computer vision and employ deep learning models. Aesthetic liking of the images, rated by a different pool of observers, seems to be independent from both strength and saliency ratings (correlations <.1). This could be because mirror symmetry is only one aspect of good composition. Human data collection is still ongoing, including aesthetic judgements from the same participants. Additionally, we will train a deep learning model on symmetry detection and figure-ground segmentation, which we will present alongside these findings.
+Open data and methods: https://osf.io/9tf4e/
+Acknowledgment: This work is funded by an ERC Advanced Grant (No. 101053925) awarded to JW.
+
+Recommended citation: Koßmann, L., Muradás Odriozola, G., Bossens, C. & Wagemans, J. (2023). <i>SSaliency and strength of mirror symmetry in images of artworks in relation to appreciation and domputational metrics</i> [Poster]. Visual Science of Art Conference (VSAC), Nicosia, Cyprus.
