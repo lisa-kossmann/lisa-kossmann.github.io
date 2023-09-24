@@ -1,7 +1,7 @@
 ---
 title: "Perceptions of persons who wear face coverings are modulated by the perceivers’ attitude"
 collection: publications
-permalink: /publication/FaceCoverings_Paper
+permalink: /publication/2022-11-04_FaceCoverings_Paper
 date: 2022-11-04
 venue: 'Frontiers in Neuroscience'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/fnins.2022.988546/full'

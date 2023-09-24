@@ -1,7 +1,7 @@
 ---
 title: "Reconstructing a disambiguation sequence that forms perceptual memory of multistable displays via reverse correlation method: Bias onset perception but gently"
 collection: publications
-permalink: /publication/ReverseCorrelation_Paper
+permalink: /publication/2023-03-17_ReverseCorrelation_Paper
 date: 2023-03-17
 venue: 'Journal of Vision'
 paperurl: 'https://jov.arvojournals.org/article.aspx?articleid=2785454'
