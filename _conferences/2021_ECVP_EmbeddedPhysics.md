@@ -1,9 +1,9 @@
 ---
 title: "Proximity, expectations, and attention but not necessarily physics determine perception for 
 simultaneously viewed multiple bistable displays. "
-collection: talks
+collection: conferences
 type: "Poster"
-permalink: /talks/2021_ECVP_EmbeddedPhysics
+permalink: /conferences/2021_ECVP_EmbeddedPhysics
 venue: "43rd European Conference on Visual Perception (ECVP) "
 date: 2021-08-23
 location: "Online"

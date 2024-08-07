@@ -1,8 +1,8 @@
 ---
 title: "Perceptual Dominance in Face Rivalry Is Driven by Low-Level Properties"
-collection: talks
+collection: conferences
 type: "Poster"
-permalink: /talks/2022_ECVP_DominantFaces
+permalink: /conferences/2022_ECVP_DominantFaces
 venue: " 42nd European Conference on Visual Perception (ECVP) 2019"
 date: 2019-08-27
 location: "Leuven, Belgium"

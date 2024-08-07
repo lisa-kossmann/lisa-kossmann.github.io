@@ -1,8 +1,8 @@
 ---
 title: "How to form perceptual memory of multistability: Bias perception but gently"
-collection: talks
+collection: conferences
 type: "Talk"
-permalink: /talks/2022_ECVP_Perceptual_Memory
+permalink: /conferences/2022_ECVP_Perceptual_Memory
 venue: " 44th European Conference on Visual Perception (ECVP) 2022"
 date: 2022-08-29
 location: "Nijmegen, The Netherlands"

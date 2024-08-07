@@ -1,8 +1,8 @@
 ---
 title: "Saliency and strength of mirror symmetry in images of artworks in relation to appreciation and computational metrics"
-collection: talks
+collection: conferences
 type: "Poster"
-permalink: /talks/2023_ECVP_ImgSym
+permalink: /conferences/2023_ECVP_ImgSym
 venue: " Visual Science of Art Conference (VSAC)"
 date: 2023-08-26
 location: "Nicosia, Cyprus"

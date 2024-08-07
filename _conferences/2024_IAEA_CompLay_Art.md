@@ -1,9 +1,9 @@
 ---
 title: "Composition and Spatial Layout of Images of Artworks in relation to their Aesthetic
 Appreciation"
-collection: talks
+collection: conferences
 type: "Poster"
-permalink: /talks/2024_IAEA_CompLay_Art
+permalink: /conferences/2024_IAEA_CompLay_Art
 venue: "International Association of Emprical Aesthetics (IAEA)"
 date: 2024-05-09
 location: "Palma de Mallorca, Spain"

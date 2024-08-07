@@ -1,8 +1,8 @@
 ---
 title: "Symmetry Detection in Images of Natural Scenes by Humans and Machines"
-collection: talks
+collection: conferences
 type: "Poster"
-permalink: /talks/2023_ECVP_ImgSym
+permalink: /conferences/2023_ECVP_ImgSym
 venue: " 45th European Conference on Visual Perception (ECVP) 2023"
 date: 2023-08-31
 location: "Paphos, Cyprus"
