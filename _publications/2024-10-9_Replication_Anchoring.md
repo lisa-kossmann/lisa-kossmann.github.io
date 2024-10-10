@@ -1,0 +1,12 @@
+---
+title: "Need for Cognition, Cognitive Load, and Forewarning do not Moderate Anchoring Effects. A Replication Study of Epley & Gilovich (Journal of Behavioral Decision
+Making, 2005; Psychological Science, 2006)"
+collection: publications
+permalink: /publication/2024-10-9ReplicationAnchoring
+date: 2024-10-09
+venue: 'Journal of Comments and Replications in Economics'
+paperurl: 'https://www.jcr-econ.org/need-for-cognition-cognitive-load-and-forewarning-do-not-moderate-anchoring-effects-replication/'
+citation: 'Röseler, L., Bögler, H. L., Koßmann, L., Krueger, S., Bickenbach, S., Bühler, R., della Guardia, J., Köppel, L.-M. A, Möhring, J., Ponader, S., Roßmaier, K., Sing, J. (2024). Need for Cognition, Cognitive Load, and Forewarning do not Moderate Anchoring Effects. A Replication Study of Epley & Gilovich (Journal of Behavioral Decision Making, 2005; Psychological Science, 2006). Journal of Comments and Replications in Economics, 3(2024-6). https://doi.org/10.18718/81781.38'
+---
+Anchoring, the assimilation of numerical estimates toward previously considered numbers, has generally been separated into anchoring from self-generated anchors (e.g., people first thinking of 9 months when asked for the gestation period of an animal) and experimenter-provided anchors (e.g., experimenters letting participants spin fortune wheels). For some time, the two types of anchoring were believed to be explained by two different theoretical accounts. However, later research showed crossover between the accounts. What now remains are contradictions between past and recent findings, specifically, which moderators affect which type of anchoring. We conducted three replications (𝑁total = 657) of seminal studies on the distinction between self-generated and experimenter-provided anchoring effects where we investigated the moderators need for cognition, cognitive load, and forewarning. We found no evidence that either type of anchoring is moderated by any of the moderators. In line with recent replication efforts, we found that anchoring effects were robust, but the findings on moderators of anchoring effects should be treated with caution.
+[Download paper here](https://www.jcr-econ.org/need-for-cognition-cognitive-load-and-forewarning-do-not-moderate-anchoring-effects-replication/)
