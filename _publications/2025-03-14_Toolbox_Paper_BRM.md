@@ -1,7 +1,7 @@
 ---
 title: "A toolbox for calculating quantitative image properties in aesthetics research"
 collection: publications
-permalink: /publication/2024-08-20_ToolboxPreprint_Paper
+permalink: /publication/2025-03-14_Toolbox_Paper_BRM
 date: 2025-03-14
 venue: 'Behavior Research Methods'
 paperurl: 'https://link.springer.com/article/10.3758/s13428-025-02632-3'
