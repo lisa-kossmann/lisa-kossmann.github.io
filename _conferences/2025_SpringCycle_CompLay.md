@@ -1,0 +1,20 @@
+---
+title: "Composition and Spatial Layout: A Comparative Investigation of the two concepts in Images of Natural Scenes and Artworks"
+collection: conferences
+type: "Poster"
+permalink: /conferences/2025_SpringCycle_CompLay
+venue: "Lentecyclus, Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten (KVAB)"
+date: 2025-06-04
+location: "Brussels, Belgium"
+---
+While Composition is a term commonly used in art-theoretical discussions, and art education, Spatial Layout (hereafter “Layout”), is more common in the literature on depth and scene perception. With two large online studies (N= 1364 and N= 1308) of 160 artworks and 160 natural scenes, respectively, we aim to provide a foundation for future work by investigating the relationship of the two concepts as well as important aesthetic measures, namely Pleasure, Interest, Order, and Complexity.
+
+In both studies, our participants were randomly assigned to either the Composition or the Layout condition and received definitions and examples of good and poor Composition or clear and unclear Layout. They then viewed 40-50 randomly selected images in two blocks. In the first block they rated all images on their Composition or Layout and either Pleasure or Interest, and either Order or Complexity, using 7-point Likert Scales. In the second block they rated the same images again (new random order) on Composition or Layout and on the two remaining aesthetic concepts. Participants also filled out a standard demographics questionnaire, an art-experience questionnaire and scales from selected personality questionnaires for Openness to Experience, Need for Closure, Sensation Seeking and Aesthetic Sensitivity. 
+
+Within artworks Composition and Layout are positively correlated with Order (rs = 0.91, rs =0.84), Pleasure (rs = 0.87, rs =0.86), Interest (rs = 0.58, rs =0.64) and negatively correlated with Complexity (rs = -0.32, rs = -0.22). Within images of natural scenes, these findings are similar (Order (rs = 0.66, rs = 0.74), Pleasure (rs = 0.77, rs = 0.54), Interest (rs = 0.70, rs = 0.43) and negatively correlated with Complexity (rs = 0.44, rs = -0.12)), albeit the correlation coefficients are smaller. In artworks as well as natural scenes, Composition and Layout were judged reliably and their Spearman’s correlation coefficients are 0.90 and 0.74, respectively. Composition and Layout are correlated higher for representative artworks than for abstract artworks
+
+Our results indicate that Composition and Layout are closely related concepts but are not completely overlapping, as their relationship appears to be at least partly dependent on the image category, and their respective relationships with aesthetic determinants and measures vary. 
+
+Acknowledgment: This work is funded by an ERC Advanced Grant (No. 101053925) awarded to JW.
+
+Recommended citation: Koßmann, L., Hellemans, A-S., Bossens, C., & Wagemans, J. (2025). <i>Composition and Spatial Layout: A Comparative Investigation of the two concepts in Images of Natural Scenes and Artworks</i> [Poster]. 2Lentecyclus, Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten (KVAB), Brussels, Belgium.
