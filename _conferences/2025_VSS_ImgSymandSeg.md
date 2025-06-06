@@ -1,0 +1,14 @@
+---
+title: "Symmetry Detection and Figure-Ground Segmentation in Perceptual Organization of Rich Images"
+collection: conferences
+type: "Poster"
+permalink: /conferences/2025_VSS_ImgSymandSeg
+venue: "25th Annual Meeting of the Vision Science Society (VSS)"
+date: 2025-05-19
+location: "St Pete Beach, FL, USA"
+---
+Symmetry plays a critical role in perceptual organization, contributing to tasks like perceptual grouping, figure-ground segmentation, shape perception and aesthetics. However, most studies rely on simple geometric patterns, leaving its role in complex, real-world stimuli underexplored. Here, we present findings from a preregistered online study involving 901 participants and a set of 200 real-world photographs and 200 artworks to investigate symmetry detection and its interplay with figure-ground segmentation. Participants identified symmetric regions in images by superimposing bounding boxes and axes of symmetry on self-selected image regions, allowing multiple regions per image. For each region, they rated salience (how much it stood out to them) and strength of symmetry (ranging from imperfect to nearly perfect). These human annotations were compared to symmetry detection by a deep learning model (U-Net). Additionally, object detection (YOLO11) and segmentation (SAM2) algorithms were used to explore how figure-ground segmentation influenced symmetry perception. Our results confirm the dominance of vertical symmetry axes in real-world scenes (72.91%) and artworks (73.87%). Bayesian regression analysis revealed that as the number of marked regions increased, their salience and size decreased while symmetry strength slightly increased. The U-Net model showed alignment with human annotations in high-salience, high-symmetry regions, with overlaps of 55% and 53% for natural scenes and artworks, respectively. Overall performance was better for natural scenes (Weighted F1-Score = 0.43) than for artworks (WF1 = 0.40), but it is clear that machine vision models still have a way to go before they can mimic human symmetry perception. Critically, symmetry detection was heavily influenced by object presence and recognizability within the image, suggesting a strong interaction between symmetry perception, figure-ground segmentation, and object detection. These findings bridge the gap between traditional symmetry research and real-world visual contexts, offering insights into the computational and perceptual mechanisms underlying symmetry detection and in complex images.
+
+Acknowledgements: This work is funded by an ERC Advanced Grant (No. 101053925, GRAPPA) awarded to JW.
+
+Recommended citation: Koßmann, L., Muradás Odriozola, G., Bossens, C., & Wagemans, J. (2025). <i>Symmetry Detection and Figure-Ground Segmentation in Perceptual Organization of Rich Images</i> [Poster]. 25th Annual Meeting of the Vision Science Society (VSS), St Pete Beach, Florida, USA.
