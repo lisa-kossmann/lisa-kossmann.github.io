@@ -1,0 +1,11 @@
+---
+title: "Finding Closure: A Closer Look at the Gestalt Law of Closure in Convolutional Neural Networks"
+collection: publications
+permalink: /publication/2025-06-16_CNNClosure_Paper
+date: 2025-06-16
+venue: 'Computational Brain & Behavior'
+paperurl: 'https://link.springer.com/article/10.1007/s42113-025-00251-x'
+citation: 'Zhang, Y., Soydaner, D., Koßmann, L., Behrad, F., & Wagemans, J. (2025). Finding closure: A closer look at the gestalt law of closure in convolutional neural networks. Computational Brain & Behavior. https://doi.org/10.1007/s42113-025-00251-x'
+---
+The human brain has an inherent ability to fill in gaps to perceive figures as complete wholes, even when parts are missing or fragmented. This phenomenon, known as Closure in psychology, is one of the Gestalt laws of perceptual organization. Given the role of Closure in human perception, we investigate whether neural networks exhibit similar functional behavior in object recognition. While the neural substrates of Gestalt principles are thought to involve feedback mechanisms in the brain, convolutional neural networks (CNNs) rely on feedforward architectures. Despite this, we focus on the functional comparison—specifically, object recognition—rather than the underlying mechanisms. We investigate whether CNNs can parallel the human ability to perform Closure. Exploring this crucial visual skill in neural networks can highlight their (dis)similarity to human vision. Recent studies have examined the Closure effect in neural networks, but typically focus on a limited selection of CNNs and yield divergent findings. To address these gaps, we present a systematic framework to investigate Closure. We introduce well-curated datasets designed to test for Closure effects, including both modal and amodal completion. We then conduct experiments on nine CNNs employing different measurements. Our comprehensive analysis reveals that VGG16 and DenseNet-121 exhibit the Closure effect, while other CNNs show variable results. This finding is significant for fields such as AI, Neuroscience, and Psychology, as it bridges understanding across disciplines. By blending insights from psychology and neural network research, we offer a unique perspective that enhances transparency in neural networks.
+[Download paper here](https://doi.org/10.1007/s42113-025-00251-x)
