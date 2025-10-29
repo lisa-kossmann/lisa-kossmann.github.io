@@ -6,7 +6,7 @@ type: "Poster"
 permalink: /conferences/2025_ECVP_WikiArt
 venue: "47th European Conference on Visual Perception (ECVP)"
 date: 2025-08-25
-location: "Wiesbaden, Germany"
+location: "Mainz, Germany"
 ---
 The WikiArt dataset is popular in research on art and aesthetics. However, closer inspection reveals
 occasional subpar image quality, possibly distorting the results of previous research. Here, we present
