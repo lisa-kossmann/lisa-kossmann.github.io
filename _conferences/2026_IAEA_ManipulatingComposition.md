@@ -11,8 +11,8 @@ Compositional goodness is a key concept in aesthetics and art, yet it has rarely
 Experiment 1 was a manipulation check (N = 37), in which participants ranked the three images within all triplets from least to most of the compositional principle (e.g., least to most repetitive). Plackett–Luce models showed that, in all but three cases, the manipulations produced the expected directional deviations from baseline.
 In Experiment 2 (N = 48), participants ranked the images with the same motif (within triplets) by either composition or preference. Global Plackett–Luce models revealed that the pairwise comparisons confirmed the expectations (all p < .001), with stronger effects for composition than for preference.
 Experiment 3 (N = 345) used a 2AFC task, with all pairwise comparisons across the three levels and motifs, in which participants had to choose either the better-composed image or the one they preferred. Item-level worth estimates derived from Plackett–Luce models showed a
-significant medium-sized eçect of manipulation in the composition condition, but no meaningful overall eçect in the preference condition.
-Data collection for Experiments 2 and 3 is still ongoing, but our current results show that the manipulation of compositional principles significantly açects participants’ composition judgments more than their preference judgements.
+significant medium-sized effect of manipulation in the composition condition, but no meaningful overall effect in the preference condition.
+Data collection for Experiments 2 and 3 is still ongoing, but our current results show that the manipulation of compositional principles significantly affects participants’ composition judgments more than their preference judgements.
 
 Acknowledgements: This work is funded by an ERC Advanced Grant (No. 101053925, GRAPPA) awarded to JW.
 
