@@ -3,7 +3,7 @@ title: "Image Composition and Aesthetics: Three Principles Manipulated, Validate
 collection: conferences
 type: "Talk"
 permalink: /conferences/2026_IAEA_ManipulatingComposition
-venue: "Biannial Congress of the International Association of Empirical Aesthetics (IAEA)"
+venue: "Biennial Congress of the International Association of Empirical Aesthetics (IAEA)"
 date: 2026-05-07
 location: "Jena, Germany"
 ---
