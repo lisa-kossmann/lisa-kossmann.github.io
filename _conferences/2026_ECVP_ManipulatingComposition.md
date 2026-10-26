@@ -1,7 +1,7 @@
 ---
 title: "Perceptual and Aesthetic Sensitivity to Systematically Manipulated Image Composition"
 collection: conferences
-type: "Talk"
+type: "Poster"
 permalink: /conferences/2026_ECVP_ManipulatingComposition
 venue: "48th European Conference on Visual Perception (ECVP)"
 date: 2026-08-24
