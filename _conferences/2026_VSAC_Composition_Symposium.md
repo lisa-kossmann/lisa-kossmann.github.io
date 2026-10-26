@@ -1,0 +1,14 @@
+---
+title: "Empirically Defining, Manipulating and Deriving Composition"
+collection: conferences
+type: "Talk"
+permalink: /conferences/2026_VSAC_Composition_Symposium
+venue: "Visual Science of Art Conference (VSAC)"
+date: 2026-08-21
+location: "London, UK"
+---
+Despite its prominence in art theory and education, composition has received surprisingly little attention in empirical aesthetics. Across three extensive studies, we operationalize composition as a determinant of aesthetic preference and introduce a novel method for annotating it within complex natural and artistic imagery. First, in two large online rating studies (N~1300 each), we provide a foundation for positioning Composition within empirical aesthetics by investigating the concept’s relationship with important aesthetic measures, namely Pleasure, Interest, Order, Complexity, and Layout. Second, through three ranking studies, we manipulated and validated Balance, Emphasis, and Repetition independently, testing their respective impacts on aesthetic preference. Our open access stimulus set spans 63 motifs, each with a baseline version and versions with more or less of the targeted principle, which we validated through a within-triplet ranking task (N=37). With the same task (N=152) we demonstrated that stronger compositional presence significantly increases both preference and perceived composition quality relative to weaker or baseline versions. Finally, in a two-alternative forced-choice task (N=348) with all pairwise comparisons across the three levels and motifs, participants had to choose either the better-composed image or the one they preferred. Our Composition manipulations again consistently influenced participants’ rankings and choices regarding image composition and personal preferences. However, for Composition to have impact on aesthetics it must be perceptually derived from images. To investigate this process, our third study introduces a novel annotation tool that allows participants to annotate regions for 3 Composition and 5 Perceptual Grouping principles. Heatmaps and overlays illustrate the hierarchical nature of these regions and enable us to substantiate and quantify Composition in an innovative way. Throughout this work, we show that Composition has a real, empirically measurable effect on aesthetic appreciation and that participants are sensitive to Composition and can extract it from rich images.
+
+Acknowledgements: This work is funded by an ERC Advanced Grant (No. 101053925, GRAPPA) awarded to JW.
+
+Recommended citation: Koßmann, L. (2026). <i>Empirically Defining, Manipulating and Deriving Composition</i> [Talk]. Visual Science of Art Conference (VSAC), London, UK.
