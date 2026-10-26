@@ -2,7 +2,7 @@
 title: "Saliency and strength of mirror symmetry in images of artworks in relation to appreciation and computational metrics"
 collection: conferences
 type: "Poster"
-permalink: /conferences/2023_ECVP_ImgSym
+permalink: /conferences/2023_VSAC_ImgSym
 venue: " Visual Science of Art Conference (VSAC)"
 date: 2023-08-26
 location: "Nicosia, Cyprus"
@@ -11,4 +11,4 @@ The relationship between mirror symmetry and aesthetic appreciation has intrigue
 Open data and methods: https://osf.io/9tf4e/
 Acknowledgment: This work is funded by an ERC Advanced Grant (No. 101053925) awarded to JW.
 
-Recommended citation: Koßmann, L., Muradás Odriozola, G., Bossens, C. & Wagemans, J. (2023). <i>SSaliency and strength of mirror symmetry in images of artworks in relation to appreciation and domputational metrics</i> [Poster]. Visual Science of Art Conference (VSAC), Nicosia, Cyprus.
+Recommended citation: Koßmann, L., Muradás Odriozola, G., Bossens, C. & Wagemans, J. (2023). <i>Saliency and strength of mirror symmetry in images of artworks in relation to appreciation and computational metrics</i> [Poster]. Visual Science of Art Conference (VSAC), Nicosia, Cyprus.
