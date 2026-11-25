@@ -14,4 +14,4 @@ The result is an unprecedented dataset, and a comprehensive investigation of per
 
 Acknowledgements: This work is funded by an ERC Advanced Grant (No. 101053925, GRAPPA) awarded to JW.
 
-Recommended citation: Koßmann, L., Muradás Odriozola, G., Yirtici, U. & Wagemans, J. (2026). <i>Revealing Mid-Level Factors in Rich Images: A Framework and Dataset for Perceptual Grouping and Composition</i> [Poster]. Perception Day, Utrect, The Netherlands.
+Recommended citation: Koßmann, L., Muradás Odriozola, G., Yirtici, U. & Wagemans, J. (2026). <i>Revealing Mid-Level Factors in Rich Images: A Framework and Dataset for Perceptual Grouping and Composition</i> [Poster]. Perception Day, Utrecht, The Netherlands.
